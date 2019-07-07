@@ -1,0 +1,218 @@
+[
+{
+"BRAND" : "Dell",
+"ProductID": "LP001",
+"ProductName": "XPS15",
+"GraphicName": "LP001@Pic",
+"CostPrice": 1399.00,
+"MSRP" : 1399.00,
+"QtyOnHand" : 5,
+"QtyOnBackOrder": 2,
+"Description" : "The XPS 15 Memory:32GB 2x16GB DDR4-2666MHz,. Processor:8th Generation Intel Core i9-8950HK Processor (12MB Cache, up to 4.8 GHz, 6 cores). Video Card:NVIDIA GeForce GTX 1050Ti"
+},
+{
+"BRAND" : "Dell",
+"ProductID": "LP002",
+"ProductName": "Inspiron 15",
+"GraphicName": "LP002@Pic",
+"CostPrice": 579.99,
+"MSRP" : 620.00,
+"QtyOnHand" : 2,
+"QtyOnBackOrder": 0,
+"Description" : "The Inspiron 15 5000 Series (5585) Memory:16GB, 8Gx2, DDR4, 2400MHz. Processor:AMD Ryzen 7 3700U Mobile Processor with Radeon Vega 10 Graphics. "
+},
+{
+"BRAND" : "Dell",
+"ProductID": "LP003",
+"ProductName": "vec 15",
+"GraphicName": "LP003@Pic",
+"CostPrice": 399.99,
+"MSRP" : 420.00,
+"QtyOnHand" : 1,
+"QtyOnBackOrder": 0,
+"Description": "Dont buy this, its not worth it"
+},
+{
+"BRAND" : "Dell",
+"ProductID": "LP004",
+"ProductName": "vec 16",
+"GraphicName": "LP004@Pic",
+"CostPrice": 299.99,
+"MSRP" : 300.00,
+"QtyOnHand" : 1,
+"QtyOnBackOrder": 0,
+"Description": "Dont buy this, its not worth it at all"
+},
+{
+"BRAND" : "Dell",
+"ProductID": "LP005",
+"ProductName": "vec 17",
+"GraphicName": "LP006@Pic",
+"CostPrice": 399.99,
+"MSRP" : 420.00,
+"QtyOnHand" : 1,
+"QtyOnBackOrder": 0,
+"Description": "Dont buy this, its not worth it"
+},
+{
+"BRAND" : "Dell",
+"ProductID": "LP006",
+"ProductName": "vec 18",
+"GraphicName": "LP006@Pic",
+"CostPrice": 399.99,
+"MSRP" : 420.00,
+"QtyOnHand" : 1,
+"QtyOnBackOrder": 0,
+"Description": "Its a super long description here!!!"
+},
+{
+"BRAND" : "Dell",
+"ProductID": "LP007",
+"ProductName": "vec 19",
+"GraphicName": "LP007@Pic",
+"CostPrice": 399.99,
+"MSRP" : 420.00,
+"QtyOnHand" : 1,
+"QtyOnBackOrder": 0,
+"Description": "Dont buy this, its not worth it"
+},
+{
+"BRAND" : "Dell",
+"ProductID": "LP008",
+"ProductName": "vec 20",
+"GraphicName": "LP008@Pic",
+"CostPrice": 399.99,
+"MSRP" : 420.00,
+"QtyOnHand" : 1,
+"QtyOnBackOrder": 0,
+"Description": "Dont buy this, its not worth it"
+},
+{
+"BRAND" : "Lenovo",
+"ProductID": "LP009",
+"ProductName": "ThinkPad X1",
+"GraphicName": "LP009@Pic",
+"CostPrice": 1219.99,
+"MSRP" : 1300.00,
+"QtyOnHand" : 5,
+"QtyOnBackOrder": 1,
+"Description": "thinkpad is my first laptop."
+},
+{
+"BRAND" : "Lenovo",
+"ProductID": "LP0010",
+"ProductName": "ThinkPad X2",
+"GraphicName": "LP0010@Pic",
+"CostPrice": 1319.99,
+"MSRP" : 1400.00,
+"QtyOnHand" : 5,
+"QtyOnBackOrder": 1,
+"Description": "thinkpad is my first laptop."
+},
+{
+"BRAND" : "Lenovo",
+"ProductID": "LP0011",
+"ProductName": "ThinkPad X3",
+"GraphicName": "LP0011@Pic",
+"CostPrice": 1519.99,
+"MSRP" : 1500.00,
+"QtyOnHand" : 5,
+"QtyOnBackOrder": 1,
+"Description": "thinkpad is my first laptop."
+},
+{
+"BRAND" : "Lenovo",
+"ProductID": "LP0012",
+"ProductName": "ThinkPad X4",
+"GraphicName": "LP0012@Pic",
+"CostPrice": 1219.99,
+"MSRP" : 1300.00,
+"QtyOnHand" : 5,
+"QtyOnBackOrder": 1,
+"Description": "thinkpad is my first laptop."
+},
+{
+"BRAND" : "Lenovo",
+"ProductID": "LP0013",
+"ProductName": "ThinkPad X5",
+"GraphicName": "LP0013@Pic",
+"CostPrice": 1219.99,
+"MSRP" : 1300.00,
+"QtyOnHand" : 5,
+"QtyOnBackOrder": 1,
+"Description": "thinkpad is my first laptop."
+},
+{
+"BRAND" : "Asus",
+"ProductID": "LP0014",
+"ProductName": "GX531GS-AH76",
+"GraphicName": "LP0014@Pic",
+"CostPrice": 2159.99,
+"MSRP" : 2200.00,
+"QtyOnHand" : 5,
+"QtyOnBackOrder": 1,
+"Description": "For the game!"
+},
+{
+"BRAND" : "Asus",
+"ProductID": "LP0015",
+"ProductName": "GX531GS-AH77",
+"GraphicName": "LP0015@Pic",
+"CostPrice": 2159.99,
+"MSRP" : 2200.00,
+"QtyOnHand" : 5,
+"QtyOnBackOrder": 1,
+"Description": "For the game!"
+},
+{
+"BRAND" : "Asus",
+"ProductID": "LP0016",
+"ProductName": "GX531GS-AH78",
+"GraphicName": "LP0016@Pic",
+"CostPrice": 2159.99,
+"MSRP" : 2200.00,
+"QtyOnHand" : 5,
+"QtyOnBackOrder": 1,
+"Description": "For the game!"
+},
+{
+"BRAND" : "Asus",
+"ProductID": "LP0017",
+"ProductName": "GX531GS-AH79",
+"GraphicName": "LP0017@Pic",
+"CostPrice": 2159.99,
+"MSRP" : 2200.00,
+"QtyOnHand" : 5,
+"QtyOnBackOrder": 1,
+"Description": "For the game!"
+},
+{
+"BRAND" : "Asus",
+"ProductID": "LP0018",
+"ProductName": "GX531GS-AH80",
+"GraphicName": "LP0018@Pic",
+"CostPrice": 2159.99,
+"MSRP" : 2200.00,
+"QtyOnHand" : 5,
+"QtyOnBackOrder": 1,
+"Description": "For the game!"
+},
+{
+"BRAND" : "Asus",
+"ProductID": "LP0019",
+"ProductName": "GX531GS-AH81",
+"GraphicName": "LP0019@Pic",
+"CostPrice": 2159.99,
+"MSRP" : 2200.00,
+"QtyOnHand" : 5,
+"QtyOnBackOrder": 1,
+"Description": "For the game!"
+}
+]
+
+
+
+
+
+
+
